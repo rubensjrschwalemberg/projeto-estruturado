@@ -9,7 +9,7 @@ O git trata seus dados como um conjunto de imagens. Cada vez que é feito um com
 
 
 ### 2.  O que é versionamento de software?
-
+Versionamento são as alterações que são feitas em um arquivo ou vários salvos ao longo do tempo. Permite a recuperação e alteração de forma segura. O que muitos faziam eram salvar cópias e mais cópias do arquivo sem saber o que tinha sido alterado. O git trabalha com sistema distribuído de controle de versão que permite que vários usuários utilizem a versão mais recente do arquivo, salvar o repositório em sua própria máquina e depois subirem para o repositório as alterações.
 
 ### 3. Por que utilizar o Git como controle de versionamento?
 
