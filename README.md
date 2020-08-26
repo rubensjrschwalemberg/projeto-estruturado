@@ -13,7 +13,7 @@ Versionamento são as alterações que são feitas em um arquivo ou vários salv
 
 
 ### 3. Por que utilizar o Git como controle de versionamento?
-
+Os outros sistemas de versionamento de arquivos trabalham armazenando informações com as mudanças nos arquivos. Conjunto de arquivos e suas alterações ao longo do tempo. Salvando apenas as diferenças dos arquivos em cada versão. Não é possível criar branch. Já o git trabalha com um conjunto de imagens do sistema. Uma foto de todos os arquivos armazenando numa versão. Quando um arquivo não é alterado ele salva apenas o link da versão anterior. Esse tipo de tratamento é chamado de fluxo do estado dos arquivos. O estado modificado que é a foto do trabalho que está sendo feito no momento, estado preparado:  pronto para ser salvo no banco de dados e estado consolidado: salvo no repositório.
 
 ### 4. Quais as vantagens do Git?
 
