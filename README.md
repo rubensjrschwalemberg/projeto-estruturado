@@ -17,6 +17,10 @@ Os outros sistemas de versionamento de arquivos trabalham armazenando informaç�
 
 ### 4. Quais as vantagens do Git?
 
+O Git apresenta várias vantagens em relação aos outros softwares de controle de versionamento. Possui integridade que garante que nenhuma alteração em algum conteúdo ou pasta ocorre sem o GIT saber.
+Não possuindo riscos dos arquivos serem corrompidos ou perderem alterações. Salva seus arquivos num valor hash hexadecimal com 40 caracteres.
+Alterações em arquivos e pastas são salvas através do comando commit assegurando a adição de dados de forma segura. 
+"Facilidade de verificar alterações nos arquivos na linha do tempo, pode ser utilizado em trabalhos grandes em equipe, permite revisão, sistema de branching, merging, snapshots e autenticação criptográfica". Android, Kernel do Linux, php utilizam o git como exemplos.
 
 ### 5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software?
 
