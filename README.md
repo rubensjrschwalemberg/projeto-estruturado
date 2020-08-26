@@ -24,6 +24,8 @@ Alterações em arquivos e pastas são salvas através do comando commit assegur
 
 ### 5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software?
 
+É de extrema importância. Você saber todo o histórico de modificações, o que foi alterado, poder baixar versões anteriores, trabalhar em equipe em tempo real salvando o arquivo na máquina e depois subir as alterações para o git, verificar o que foi modificado e quem modificou. "Assim, se qualquer servidor morrer, e esses sistemas estiverem colaborando por meio dele, qualquer um dos repositórios de clientes podem ser copiado de volta para o servidor para restaurá-lo. Cada clone é de fato um backup completo de todos os dados".
+"Além disso, muitos desses sistemas trabalham muito bem com vários repositórios remotos, tal que você possa colaborar em diferentes grupos de pessoas de maneiras diferentes ao mesmo tempo dentro do mesmo projeto. Isso permite que você configure vários tipos de fluxos de trabalho que não são possíveis em sistemas centralizados, como modelos hierárquicos".
 
 ### 6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
 
