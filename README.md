@@ -29,6 +29,12 @@ Alterações em arquivos e pastas são salvas através do comando commit assegur
 
 ### 6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
 
+git init: utilizado para criar o repositório/diretório remoto na máquina.
+
+git status: utilizado para verificar se existe alguma alteração em algum arquivo ou pasta para ser commitado.
+
+git commit: comando utilizado para incluir os arquivos ou pastas no repositório do git. Exemplo: git commit -m "exemplo".
+
 
 ~
 
