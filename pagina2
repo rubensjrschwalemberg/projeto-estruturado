@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html> 
+	<head>
+		<title>Comandos guit sem flow</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css href="css/global.css">
+		<style>
+			table, th,td {
+				border-style: solid;
+				border-width: 2px;
+				padding: 4px;
+				text-align: center;
+			}
+		</style>
+
+	</head>
+<body>
+	<nav>
+		<a href="pagina1.html">Respostas questionário 2</a>
+		<a href="pagina2.html">Comandos git sem flow</a>
+		<a href="pagina3.html">Comandos git com flow</a>
+	 </nav>
+	<div class="corpo">
+		<h1> Comandos GIT </h1>
+		<br> <br>
+		<p> Comandos do git sem flow </p>
+		<br> <br>
+		<table> 
+			<thead> 
+				<th>Comando</th>
+				<th>Utilidade</th>
+
+			</thead>
+			<tbody> 
+				<tr>
+					<td>git clone "ssh" nome da pasta </td>
+					<td> clona o repositório do github online na sua máquina </td>
+				</tr>
+				<tr>	
+					<td> git status </td>
+					<td> verifica se houve alguma alteração em alguma pasta ou arquivo para commitar</td>
+
+				</tr>
+					<tr>
+						<td> git add . </td>
+						<td> adiciona os arquivos para o commit </td>
+					</tr>
+
+					<tr>
+					<td>git commit -am "nome do arquivo"</td>
+					<td>salva as alterações no repositório com um nome específico</td>
+				</tr>
+					<tr>
+					<td>git push origin master</td>
+					<td>salva as alterações do seu repositório para o repositório do github</td>
+				</tr>
+					
+				<tbody>
+
+		</table>
+	 </div>
+
+		</body>
+
+</html>
